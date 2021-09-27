@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joel-Development
+👋 Hi, I’m @Joel-Development
 I am a High School Student, I'm learning about Front-End Development, and I'm interested in the Back-end. 
 I'm from Bolivia and speak spanish.
 
