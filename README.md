@@ -5,11 +5,23 @@ I'm from Bolivia and I know a bit of english.
 - 👀 I’m interested in:
   - Front-End Development
   - UX/UI Design.
+
+- :pushpin: My Skills
+  - HTML
+  - CSS
+  - Sass
+  - Javascript
+  - Figma
+
+- :triangular_ruler: Tools
+  - Visual Studio Code
   
-- 🌱 I’m currently learning .
+- :smiley: I’m currently learning .
   - English.
+  - Javascript
   - FrontEnd Technologies and Methodologies.
   - Several topics about technology and good coding practices.
   
 - 📫 How to reach me 
-  - joelalejandro.development@gmail.com
+  - Gmail: joelalejandro.development@gmail.com
+  - Whatsapp: [My Whatsapp](https://api.whatsapp.com/send?phone=59172968933)
