@@ -1,27 +1,26 @@
-👋 Hi, I am @Joel-Development
-I am a Student, I'm learning about Front-End Development, UX and UI, and also I'm interested in the Back-end. 
-I'm from Bolivia and I know a bit of english.
+Hi, I am **Joel Sanchez**
+I'm a Frontend Developer. I'm interested in how the information is shared betweeen computers in the web.
+That is the reason why I learn about web development and related topics.
 
-- 👀 I’m interested in:
+## I’m interested in:
   - Front-End Development
   - UX/UI Design.
 
-- :pushpin: My Skills
+## My Skills
   - HTML
   - CSS
   - Sass
   - Javascript
-  - Figma
 
-- :triangular_ruler: Tools
+## Tools
   - Visual Studio Code
+  - Figma
   
-- :smiley: I’m currently learning .
-  - English.
+## Continuously learning.
+  - English
   - Javascript
-  - FrontEnd Technologies and Methodologies.
-  - Several topics about technology and good coding practices.
+  - FrontEnd Technologies and Methodologies
   
-- 📫 How to reach me 
-  - Gmail: joelalejandro.development@gmail.com
-  - Whatsapp: [My Whatsapp](https://api.whatsapp.com/send?phone=59172968933)
+## Reach me 
+  - <a href="mailto:joelalejandro.development@gmail.com">Gmail</a> 
+  - [Whatsapp](https://api.whatsapp.com/send?phone=59172968933)
