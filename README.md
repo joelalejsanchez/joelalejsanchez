@@ -22,5 +22,4 @@ That is the reason why I learn about web development and related topics.
   - FrontEnd Technologies and Methodologies
   
 ## Reach me 
-  - <a href="mailto:joelalejandro.development@gmail.com">Gmail</a> 
-  - [Whatsapp](https://api.whatsapp.com/send?phone=59172968933)
+  - <a href="mailto:joelalejsanchez@gmail.com">Gmail</a>
