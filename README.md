@@ -1,4 +1,4 @@
-# Hi, I'm **Joel Alejandro Sanchez Valdez** 👋
+# Hi, I'm **Joel Sanchez** 👋
 
 Junior Full-Stack / Frontend Developer & Systems Engineering Student based in Bolivia.  
 I am passionate about building clean, performant web applications and understanding how distributed data and network architectures power the modern web.
