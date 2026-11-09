@@ -42,5 +42,4 @@ I am passionate about building clean, performant web applications and understand
 
 ### 📬 Connect with Me
 - **LinkedIn:** [linkedin.com/in/joelalejsanchez](https://linkedin.com/in/joelalejsanchez)
-- **GitHub:** [github.com/joelalejsanchez](https://github.com/joelalejsanchez)
 - **Email:** [joelalejsanchez@gmail.com](mailto:joelalejsanchez@gmail.com)
